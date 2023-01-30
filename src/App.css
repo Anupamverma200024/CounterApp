@@ -1,0 +1,45 @@
+.main {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  margin-top: 100px;
+  border: 1px solid rgb(223, 214, 214);
+  width: 40vw;
+  padding-top: 20px;
+}
+
+h1 {
+  font-family: monospace;
+  font-weight: bolder;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+button {
+  font-weight: bold;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+.btn1 {
+  background-color: #1A9137;
+  color: white;
+}
+
+.btn2 {
+  background-color: #A60D1E;
+  color: white;
+}
+
+.contbox {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.reg {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
